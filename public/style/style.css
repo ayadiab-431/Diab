@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --dark-coffee: #543310;
+    --coffee: #74512d;
+    --light-coffee: #af8f6f;
+    --latte: #f8f4e1;
+    --golden-beige: #e3c78a;
+    --main-heading-font: "Tajawal", sans-serif;
+    --pragraph-font: "Almarai", sans-serif;
+
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none !important;
+}
+body {
+    direction: rtl;
+    background-color: var(--latte);
+    font-family: var(--pragraph-font);
+}
+/* ScrollBar
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--low-dark); 
+    border-radius: 6px;
+    border: 3px solid #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--green-shade);
+}
+ */

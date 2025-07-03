@@ -1,0 +1,24 @@
+.header{
+    background: var(--dark-coffee);
+}
+.header .logo h2 {
+    margin: -7px 10px 5px;
+}
+.header .logo h2 > a {
+    color: var(--latte);
+    font-family: var(--main-heading-font);
+    font-size: clamp(2.5rem, 5vw, 3rem);
+    font-weight: bold;
+}
+.header nav .links .link a {
+    font-weight: bold;
+    color: var(--golden-beige);
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.header nav .links .link:hover a{
+    color: var(--latte);
+}
