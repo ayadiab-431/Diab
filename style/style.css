@@ -24,7 +24,7 @@ a {
 }
 body {
     direction: rtl;
-    background-color: var(--latte);
+    background-color: var(--latte) !important;
     font-family: var(--pragraph-font);
 }
 /* ScrollBar
