@@ -1,6 +1,9 @@
 .header{
     background: var(--dark-coffee);
+    padding: 8px 0;
 }
+
+/* Logo */
 .header .logo h2 {
     margin: -7px 10px 5px;
 }
@@ -10,6 +13,24 @@
     font-size: clamp(2.5rem, 5vw, 3rem);
     font-weight: bold;
 }
+
+/* Navbar */
+.header .nav-scrollable{
+    max-width: 100%;
+    overflow-x: auto;
+  white-space: nowrap;
+}
+.header nav .links{
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+    display: inline-flex;
+    min-width: max-content;
+}
+.header nav .links .link {
+    display: inline-block;
+}
+
+
 .header nav .links .link a {
     font-weight: bold;
     color: var(--golden-beige);
@@ -19,6 +40,22 @@
     -ms-transition: 0.5s;
     -o-transition: 0.5s;
 }
-.header nav .links .link:hover a{
+.header nav .links .link:hover a,
+.header nav .links .link a.active{
     color: var(--latte);
+
+}
+/* Scroll */
+.header .nav-scrollable::-webkit-scrollbar {
+  height: 6px; 
+}
+
+.header .nav-scrollable::-webkit-scrollbar-track {
+  background: #F8F4E1;
+}
+
+.header .nav-scrollable::-webkit-scrollbar-thumb {
+  background-color: #AF8F6F; 
+  border-radius: 10px;
+  border: 1px solid #74512D;
 }

@@ -1,10 +1,10 @@
 // import { useState, useEffect } from "react";
 import './Slider.css';
 
-export default function Slider({images = []}){
+export default function Slider({images = [], customeStyle = {}}){
 
     return (
-        <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleSlidesOnly" style = {customeStyle} className="carousel slide custome-slider" data-bs-ride="carousel">
             <div className="carousel-inner">
                 {images.map((img, idx) => (
                 
