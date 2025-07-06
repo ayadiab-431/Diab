@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid red !important;
 }
 :root {
     --dark-coffee: #543310;
@@ -25,7 +26,7 @@ a {
 body {
     direction: rtl;
     background-color: var(--latte) !important;
-    font-family: var(--pragraph-font);
+    font-family: var(--pragraph-font) !important;
 }
 /* ScrollBar
 ::-webkit-scrollbar {
