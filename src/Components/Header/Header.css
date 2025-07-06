@@ -9,7 +9,7 @@
 }
 .header .logo h2 > a {
     color: var(--latte);
-    font-family: var(--main-heading-font);
+    font-family: var(--main-heading-font) !important;
     font-size: clamp(2.5rem, 5vw, 3rem);
     font-weight: bold;
 }
@@ -51,11 +51,16 @@
 }
 
 .header .nav-scrollable::-webkit-scrollbar-track {
-  background: #F8F4E1;
+  background: var(--latte);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 .header .nav-scrollable::-webkit-scrollbar-thumb {
-  background-color: #AF8F6F; 
+  background-color: var(--light-coffee); 
   border-radius: 10px;
-  border: 1px solid #74512D;
+  border: 1px solid var(--coffee);
 }

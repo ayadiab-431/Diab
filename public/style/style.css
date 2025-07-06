@@ -24,8 +24,8 @@ a {
 }
 body {
     direction: rtl;
-    background-color: var(--latte);
-    font-family: var(--pragraph-font);
+    background-color: var(--latte) !important;
+    font-family: var(--pragraph-font) !important;
 }
 /* ScrollBar
 ::-webkit-scrollbar {

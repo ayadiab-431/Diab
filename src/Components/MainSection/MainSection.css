@@ -1,0 +1,101 @@
+/* Main Section */
+.main-sec {
+    padding-top: var(--padding-top, 0);
+    height: 100vh;
+    max-height: 100vh;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+.main-sec .sec-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+    width: 100%;
+    position: relative;
+    height: 100%;
+    max-height: calc(100vh - var(--padding-top, 0));
+    padding: 0 3rem;
+}
+.main-sec .slider-img {
+    flex: 1 1 50%;
+    max-width: 100%;
+    overflow: hidden;
+}
+.main-sec .slider-img * {
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}
+.main-sec .details {
+    flex: 1 1 40%;
+}
+.main-sec .details h2 {
+    color: var(--dark-coffee);
+}
+.main-sec .details p {
+    color: var(--coffee);
+}
+.main-sec .details .go-to-products {
+    background-color: var(--dark-coffee);
+    color: var(--latte);
+    font-weight: bold;
+    padding: 12px 18px;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+}
+.main-sec .details .go-to-products:hover {
+    background-color: var(--coffee);
+}
+@media (max-width: 991px) {
+    .main-sec {
+        height: auto;
+    }
+    .main-sec .sec-container {
+        padding: 0;
+    }
+    .main-sec .slider-img {
+        height: 100%;
+    }
+    .main-sec .slider-img * {
+        border-radius: unset;
+        -webkit-border-radius: unset;
+        -moz-border-radius: unset;
+        -ms-border-radius: unset;
+        -o-border-radius: unset;
+}
+    .main-sec .details{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        -o-transform: translate(-50%, -50%);
+        text-align: center;
+        background-color: rgba(0,0,0,0.4);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 0 1rem;
+}
+    .main-sec .details h2 {
+        color: var(--latte);
+    }
+    .main-sec .details p {
+        color: var(--golden-beige);
+    }
+    .main-sec .slider-img img {
+        max-height: calc(100vh - var(--padding-top, 0));
+        object-fit: cover;
+    }
+}
