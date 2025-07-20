@@ -1,0 +1,36 @@
+.custome-order-sec .container{
+    background-color: var(--light-coffee);
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+.custome-order-sec .container > h2 {
+    color: var(--dark-coffee);
+    font-weight: bold;
+}
+.custome-order-sec .container > p {
+    color: var(--coffee);
+}
+.custome-order-sec .container .content-btns button{
+    background-color: var(--dark-coffee);
+    color: var(--latte);
+    font-weight: bold;
+    padding: 8px 10px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.custome-order-sec .container .content-btns button:hover {
+    background-color: var(--coffee);
+}

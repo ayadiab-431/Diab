@@ -1,9 +1,5 @@
 import { useRef, useState, useEffect } from 'react';
-import Header from '../../Components/Header/Header.js'
-import MainSection from '../../Components/MainSection/MainSection.js';
-export default function Home(){
-
-    
+export default function useHeaderHeight(){
     // ------------------ Handle header ---------------
     const headerRef = useRef(null);
     const [headerHeight, setHeaderHeight] = useState(0);
@@ -17,12 +13,7 @@ export default function Home(){
         window.addEventListener('resize', updateHeaderHeight)
 
         return () => window.removeEventListener('resize', updateHeaderHeight);
-    }, [])
-    
-    return (
-        <div className="home">
-            <Header ref={headerRef}/>
-            <MainSection headerHeight={headerHeight}/>
-        </div>
-    );
+    }, []);
+
+    return [headerRef, headerHeight];
 }

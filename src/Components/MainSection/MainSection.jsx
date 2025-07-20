@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Slider from "../Slider/Slider";
 import './MainSection.css';
-export default function MainSection({headerHeight}) {
+export default function MainSection({paddingTop}) {
 
     // ---------------- Images for slider ------------------
         const [sliderImgs, setSliderImgs] = useState([]);
@@ -22,7 +22,7 @@ export default function MainSection({headerHeight}) {
     return (
         <section 
         className="main-sec" 
-        style={{'--padding-top' : `${headerHeight}px`}}>
+        style={{'--padding-top' : `${paddingTop}px`}}>
             <div className="sec-container">
                 <div className="slider-img">
                     <Slider  images={sliderImgs}/>

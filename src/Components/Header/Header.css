@@ -4,12 +4,10 @@
 }
 
 /* Logo */
-.header .logo h2 {
-    margin: -7px 10px 5px;
-}
 .header .logo h2 > a {
     color: var(--latte);
-    font-family: var(--main-heading-font) !important;
+    font-family: var(--pragraph-font) !important;
+    /* font-family: var(--main-heading-font) !important; */
     font-size: clamp(2.5rem, 5vw, 3rem);
     font-weight: bold;
 }

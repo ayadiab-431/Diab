@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "ركنة مودرن",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img1.jpg",
+    "beforeImg": "products/imgb1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ركنة مودرن",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img2.jpg",
+    "beforeImg": "products/imgb1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ركنة مودرن",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img3.jpg",
+    "beforeImg": "products/imgb1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ركنة مودرن",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img4.jpg",
+    "beforeImg": "products/imgb1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ركنة مودرن",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img5.jpg",
+    "beforeImg": "products/imgb1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ركنة مودرن",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img6.jpg",
+    "beforeImg": "products/imgb1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "ركنة مودرن",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img7.jpg",
+    "beforeImg": "products/imgb1.jpg"
+  }
+]

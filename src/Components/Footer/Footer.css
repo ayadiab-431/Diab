@@ -1,0 +1,27 @@
+.footer {
+    background-color: var(--dark-coffee);
+    color: var(--golden-beige);
+}
+.footer .footer-content .footer-title,
+.footer .footer-contact .social-contact {
+    color: var(--latte);
+    font-weight: bold;
+}
+.footer .footer-contact ul li {
+    font-size: 12px;
+}
+.footer .footer-contact ul li a {
+    color: var(--golden-beige);
+}
+.footer .footer-contact ul li i {
+    padding-left: 0.5rem;
+}
+.footer .footer-content .footer-description > p,
+.footer .footer-contact > p {
+    font-size: 12px;
+}
+.footer .copyright {
+    border-top: 1px solid var(--coffee);
+    width: 100%;
+    text-align: center;
+}
