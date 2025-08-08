@@ -6,7 +6,9 @@
     "measeures": "حسب المطلوب",
     "price": "حسب المقاسات والخامات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 2,
@@ -15,7 +17,9 @@
     "measeures": "مقاسات مختلفة",
     "price": "يُحدد حسب الحجم والنوع",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb2.png",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "measeures": "مخصص حسب الطلب",
     "price": "بالاتفاق مع العميل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "measeures": "اختياري",
     "price": "حسب الخشب والقماش",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "measeures": "حسب الفراغ",
     "price": "على حسب المقاس",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "measeures": "حسب اختيارك",
     "price": "متغيرة حسب النوع",
     "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 7,
@@ -60,7 +72,9 @@
     "measeures": "تفصيل حسب الطلب",
     "price": "يُحدد بعد المعاينة",
     "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "measeures": "حسب الغرفة",
     "price": "حسب المقاسات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "measeures": "حسب الطلب",
     "price": "يتم تحديده عند الطلب",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "measeures": "مرنة",
     "price": "يُحدد بعد تحديد التفاصيل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "measeures": "مضبوطة حسب الطلب",
     "price": "اقتصادي",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "measeures": "يتم تحديدها مع العميل",
     "price": "حسب الخامة",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "measeures": "حسب الفراغ",
     "price": "متغيرة",
     "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "measeures": "حسب المطلوب",
     "price": "حسب المقاسات والخامات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
     "id": 15,
@@ -132,7 +160,9 @@
     "measeures": "مقاسات مختلفة",
     "price": "يُحدد حسب الحجم والنوع",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
     "id": 16,
@@ -141,7 +171,9 @@
     "measeures": "مخصص حسب الطلب",
     "price": "بالاتفاق مع العميل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 17,
@@ -150,7 +182,9 @@
     "measeures": "اختياري",
     "price": "حسب الخشب والقماش",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
     "id": 18,
@@ -159,7 +193,9 @@
     "measeures": "حسب الفراغ",
     "price": "على حسب المقاس",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
     "id": 19,
@@ -168,7 +204,9 @@
     "measeures": "حسب اختيارك",
     "price": "متغيرة حسب النوع",
     "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 20,
@@ -177,7 +215,9 @@
     "measeures": "تفصيل حسب الطلب",
     "price": "يُحدد بعد المعاينة",
     "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 21,
@@ -186,7 +226,9 @@
     "measeures": "حسب الغرفة",
     "price": "حسب المقاسات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 22,
@@ -195,7 +237,9 @@
     "measeures": "حسب الطلب",
     "price": "يتم تحديده عند الطلب",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
     "id": 23,
@@ -204,7 +248,9 @@
     "measeures": "مرنة",
     "price": "يُحدد بعد تحديد التفاصيل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 24,
@@ -213,7 +259,9 @@
     "measeures": "مضبوطة حسب الطلب",
     "price": "اقتصادي",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 25,
@@ -222,7 +270,9 @@
     "measeures": "يتم تحديدها مع العميل",
     "price": "حسب الخامة",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
     "id": 26,
@@ -231,7 +281,9 @@
     "measeures": "حسب الفراغ",
     "price": "متغيرة",
     "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 27,
@@ -240,7 +292,9 @@
     "measeures": "حسب المطلوب",
     "price": "حسب المقاسات والخامات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 28,
@@ -249,7 +303,9 @@
     "measeures": "مقاسات مختلفة",
     "price": "يُحدد حسب الحجم والنوع",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
     "id": 29,
@@ -258,7 +314,9 @@
     "measeures": "مخصص حسب الطلب",
     "price": "بالاتفاق مع العميل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 30,
@@ -267,7 +325,9 @@
     "measeures": "اختياري",
     "price": "حسب الخشب والقماش",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
     "id": 31,
@@ -276,7 +336,9 @@
     "measeures": "حسب الفراغ",
     "price": "على حسب المقاس",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
     "id": 32,
@@ -285,7 +347,9 @@
     "measeures": "حسب اختيارك",
     "price": "متغيرة حسب النوع",
     "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
     "id": 33,
@@ -294,7 +358,9 @@
     "measeures": "تفصيل حسب الطلب",
     "price": "يُحدد بعد المعاينة",
     "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 34,
@@ -303,357 +369,349 @@
     "measeures": "حسب الغرفة",
     "price": "حسب المقاسات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 35,
-    "name": "ركنة ألوان متعددة",
-    "description": "ركنة مناسبة لعشاق الألوان والتنوع",
-    "measeures": "حسب الطلب",
-    "price": "يتم تحديده عند الطلب",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "name": "ركنة مودرن (35)",
+    "description": " ركنة بلون واحد أنيق ومودرن ركنة ركنة ركنة ركنة ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img1.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
     "id": 36,
-    "name": "ركنة فابريكا",
-    "description": "ركنة بتنجيد ناعم وفاخر",
-    "measeures": "مرنة",
-    "price": "يُحدد بعد تحديد التفاصيل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "name": "ركنة كلاسيك (36)",
+    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+    "measeures": "مقاسات مختلفة",
+    "price": "يُحدد حسب الحجم والنوع",
+    "afterImg": "products/img2.jpg",
+    "beforeImg": "products/imgb2.png",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
     "id": 37,
-    "name": "ركنة ميني",
-    "description": "ركنة صغيرة تناسب المساحات الضيقة",
-    "measeures": "مضبوطة حسب الطلب",
-    "price": "اقتصادي",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "name": "ركنة على شكل L (37)",
+    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+    "measeures": "مخصص حسب الطلب",
+    "price": "بالاتفاق مع العميل",
+    "afterImg": "products/img3.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
     "id": 38,
-    "name": "ركنة زاوية بوسائد إضافية",
-    "description": "تصميم مريح مع عدد كبير من الوسائد",
-    "measeures": "يتم تحديدها مع العميل",
-    "price": "حسب الخامة",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "name": "ركنة عصرية (38)",
+    "description": "ركنة عصريه بتصميم عملي مريح",
+    "measeures": "اختياري",
+    "price": "حسب الخشب والقماش",
+    "afterImg": "products/img4.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
     "id": 39,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
+    "name": "ركنة زاوية (39)",
+    "description": "ركنة زاوية مثالية للديكور العصري",
     "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "price": "على حسب المقاس",
+    "afterImg": "products/img5.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
     "id": 40,
-    "name": "ركنة مودرن",
-    "description": "ركنة مودرن خشب زان أحمر",
-    "measeures": "حسب المطلوب",
-    "price": "حسب المقاسات والخامات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "name": "ركنة جلد (40)",
+    "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
+    "measeures": "حسب اختيارك",
+    "price": "متغيرة حسب النوع",
+    "afterImg": "products/img6.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
     "id": 41,
-    "name": "ركنة كلاسيك",
-    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
-    "measeures": "مقاسات مختلفة",
-    "price": "يُحدد حسب الحجم والنوع",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 42,
-    "name": "ركنة على شكل L",
-    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
-    "measeures": "مخصص حسب الطلب",
-    "price": "بالاتفاق مع العميل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 43,
-    "name": "ركنة عصرية",
-    "description": "ركنة عصريه بتصميم عملي مريح",
-    "measeures": "اختياري",
-    "price": "حسب الخشب والقماش",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 44,
-    "name": "ركنة زاوية",
-    "description": "ركنة زاوية مثالية للديكور العصري",
-    "measeures": "حسب الفراغ",
-    "price": "على حسب المقاس",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 45,
-    "name": "ركنة جلد",
-    "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
-    "measeures": "حسب اختيارك",
-    "price": "متغيرة حسب النوع",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 46,
-    "name": "ركنة بنقشة مغربية",
+    "name": "ركنة بنقشة مغربية (41)",
     "description": "تصميم شرقي مستوحى من الطراز المغربي",
     "measeures": "تفصيل حسب الطلب",
     "price": "يُحدد بعد المعاينة",
     "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
-    "id": 47,
-    "name": "ركنة مودرن فخمة",
+    "id": 42,
+    "name": "ركنة مودرن فخمة (42)",
     "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
     "measeures": "حسب الغرفة",
     "price": "حسب المقاسات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
-    "id": 48,
-    "name": "ركنة ألوان متعددة",
+    "id": 43,
+    "name": "ركنة ألوان متعددة (43)",
     "description": "ركنة مناسبة لعشاق الألوان والتنوع",
     "measeures": "حسب الطلب",
     "price": "يتم تحديده عند الطلب",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
-    "id": 49,
-    "name": "ركنة فابريكا",
+    "id": 44,
+    "name": "ركنة فابريكا (44)",
     "description": "ركنة بتنجيد ناعم وفاخر",
     "measeures": "مرنة",
     "price": "يُحدد بعد تحديد التفاصيل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
-    "id": 50,
-    "name": "ركنة ميني",
+    "id": 45,
+    "name": "ركنة ميني (45)",
     "description": "ركنة صغيرة تناسب المساحات الضيقة",
     "measeures": "مضبوطة حسب الطلب",
     "price": "اقتصادي",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
-    "id": 51,
-    "name": "ركنة زاوية بوسائد إضافية",
+    "id": 46,
+    "name": "ركنة زاوية بوسائد إضافية (46)",
     "description": "تصميم مريح مع عدد كبير من الوسائد",
     "measeures": "يتم تحديدها مع العميل",
     "price": "حسب الخامة",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
-    "id": 52,
-    "name": "ركنة سادة",
+    "id": 47,
+    "name": "ركنة سادة (47)",
     "description": "ركنة بلون واحد أنيق ومودرن",
     "measeures": "حسب الفراغ",
     "price": "متغيرة",
     "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
-    "id": 53,
-    "name": "ركنة مودرن",
+    "id": 48,
+    "name": "ركنة مودرن (48)",
     "description": "ركنة مودرن خشب زان أحمر",
     "measeures": "حسب المطلوب",
     "price": "حسب المقاسات والخامات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
-    "id": 54,
-    "name": "ركنة كلاسيك",
+    "id": 49,
+    "name": "ركنة كلاسيك (49)",
     "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
     "measeures": "مقاسات مختلفة",
     "price": "يُحدد حسب الحجم والنوع",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
-    "id": 55,
-    "name": "ركنة على شكل L",
+    "id": 50,
+    "name": "ركنة على شكل L (50)",
     "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
     "measeures": "مخصص حسب الطلب",
     "price": "بالاتفاق مع العميل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
-    "id": 56,
-    "name": "ركنة عصرية",
+    "id": 51,
+    "name": "ركنة عصرية (51)",
     "description": "ركنة عصريه بتصميم عملي مريح",
     "measeures": "اختياري",
     "price": "حسب الخشب والقماش",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
-    "id": 57,
-    "name": "ركنة زاوية",
+    "id": 52,
+    "name": "ركنة زاوية (52)",
     "description": "ركنة زاوية مثالية للديكور العصري",
     "measeures": "حسب الفراغ",
     "price": "على حسب المقاس",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
-    "id": 58,
-    "name": "ركنة جلد",
+    "id": 53,
+    "name": "ركنة جلد (53)",
     "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
     "measeures": "حسب اختيارك",
     "price": "متغيرة حسب النوع",
     "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
-    "id": 59,
-    "name": "ركنة بنقشة مغربية",
+    "id": 54,
+    "name": "ركنة بنقشة مغربية (54)",
     "description": "تصميم شرقي مستوحى من الطراز المغربي",
     "measeures": "تفصيل حسب الطلب",
     "price": "يُحدد بعد المعاينة",
     "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
   },
   {
-    "id": 60,
-    "name": "ركنة مودرن فخمة",
+    "id": 55,
+    "name": "ركنة مودرن فخمة (55)",
     "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
     "measeures": "حسب الغرفة",
     "price": "حسب المقاسات",
     "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
-    "id": 61,
-    "name": "ركنة ألوان متعددة",
+    "id": 56,
+    "name": "ركنة ألوان متعددة (56)",
     "description": "ركنة مناسبة لعشاق الألوان والتنوع",
     "measeures": "حسب الطلب",
     "price": "يتم تحديده عند الطلب",
     "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير بسحارة",
+    "category_id": 3
   },
   {
-    "id": 62,
-    "name": "ركنة فابريكا",
+    "id": 57,
+    "name": "ركنة فابريكا (57)",
     "description": "ركنة بتنجيد ناعم وفاخر",
     "measeures": "مرنة",
     "price": "يُحدد بعد تحديد التفاصيل",
     "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "انتريهات",
+    "category_id": 5
   },
   {
-    "id": 63,
-    "name": "ركنة ميني",
+    "id": 58,
+    "name": "ركنة ميني (58)",
     "description": "ركنة صغيرة تناسب المساحات الضيقة",
     "measeures": "مضبوطة حسب الطلب",
     "price": "اقتصادي",
     "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   },
   {
-    "id": 64,
-    "name": "ركنة زاوية بوسائد إضافية",
+    "id": 59,
+    "name": "ركنة زاوية بوسائد إضافية (59)",
     "description": "تصميم مريح مع عدد كبير من الوسائد",
     "measeures": "يتم تحديدها مع العميل",
     "price": "حسب الخامة",
     "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
+  },
+  {
+    "id": 60,
+    "name": "ركنة سادة (60)",
+    "description": "ركنة بلون واحد أنيق ومودرن",
+    "measeures": "حسب الفراغ",
+    "price": "متغيرة",
+    "afterImg": "products/img6.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
+  },
+  {
+    "id": 61,
+    "name": "ركنة مودرن (61)",
+    "description": "ركنة مودرن خشب زان أحمر",
+    "measeures": "حسب المطلوب",
+    "price": "حسب المقاسات والخامات",
+    "afterImg": "products/img1.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
+  },
+  {
+    "id": 62,
+    "name": "ركنة كلاسيك (62)",
+    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+    "measeures": "مقاسات مختلفة",
+    "price": "يُحدد حسب الحجم والنوع",
+    "afterImg": "products/img2.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "كنبة سرير",
+    "category_id": 4
+  },
+  {
+    "id": 63,
+    "name": "ركنة على شكل L (63)",
+    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+    "measeures": "مخصص حسب الطلب",
+    "price": "بالاتفاق مع العميل",
+    "afterImg": "products/img3.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
+  },
+  {
+    "id": 64,
+    "name": "ركنة عصرية (64)",
+    "description": "ركنة عصريه بتصميم عملي مريح",
+    "measeures": "اختياري",
+    "price": "حسب الخشب والقماش",
+    "afterImg": "products/img4.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة سرير",
+    "category_id": 2
   },
   {
     "id": 65,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
+    "name": "ركنة زاوية (65)",
+    "description": "ركنة زاوية مثالية للديكور العصري",
     "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 66,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 67,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 68,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 69,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 70,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 71,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 72,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
-  },
-  {
-    "id": 73,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg"
+    "price": "على حسب المقاس",
+    "afterImg": "products/img5.jpg",
+    "beforeImg": "products/imgb1.jpg",
+    "category": "ركنة ثابتة",
+    "category_id": 1
   }
 ]
