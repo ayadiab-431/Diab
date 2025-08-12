@@ -1,717 +1,5267 @@
 [
   {
-    "id": 1,
-    "name": "ركنة مودرن",
-    "description": " ركنة بلون واحد أنيق ومودرن ركنة ركنة ركنة ركنة ركنة مودرن خشب زان أحمر",
-    "measeures": "حسب المطلوب",
-    "price": "حسب المقاسات والخامات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 2,
-    "name": "ركنة كلاسيك",
-    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
-    "measeures": "مقاسات مختلفة",
-    "price": "يُحدد حسب الحجم والنوع",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb2.png",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 3,
-    "name": "ركنة على شكل L",
-    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
-    "measeures": "مخصص حسب الطلب",
-    "price": "بالاتفاق مع العميل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 4,
-    "name": "ركنة عصرية",
-    "description": "ركنة عصريه بتصميم عملي مريح",
-    "measeures": "اختياري",
-    "price": "حسب الخشب والقماش",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 5,
-    "name": "ركنة زاوية",
-    "description": "ركنة زاوية مثالية للديكور العصري",
-    "measeures": "حسب الفراغ",
-    "price": "على حسب المقاس",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 6,
-    "name": "ركنة جلد",
-    "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
-    "measeures": "حسب اختيارك",
-    "price": "متغيرة حسب النوع",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 7,
-    "name": "ركنة بنقشة مغربية",
-    "description": "تصميم شرقي مستوحى من الطراز المغربي",
-    "measeures": "تفصيل حسب الطلب",
-    "price": "يُحدد بعد المعاينة",
-    "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 8,
-    "name": "ركنة مودرن فخمة",
-    "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
-    "measeures": "حسب الغرفة",
-    "price": "حسب المقاسات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 9,
-    "name": "ركنة ألوان متعددة",
-    "description": "ركنة مناسبة لعشاق الألوان والتنوع",
-    "measeures": "حسب الطلب",
-    "price": "يتم تحديده عند الطلب",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 10,
-    "name": "ركنة فابريكا",
-    "description": "ركنة بتنجيد ناعم وفاخر",
-    "measeures": "مرنة",
-    "price": "يُحدد بعد تحديد التفاصيل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 11,
-    "name": "ركنة ميني",
-    "description": "ركنة صغيرة تناسب المساحات الضيقة",
-    "measeures": "مضبوطة حسب الطلب",
-    "price": "اقتصادي",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 12,
-    "name": "ركنة زاوية بوسائد إضافية",
-    "description": "تصميم مريح مع عدد كبير من الوسائد",
-    "measeures": "يتم تحديدها مع العميل",
-    "price": "حسب الخامة",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 13,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 14,
-    "name": "ركنة مودرن",
-    "description": "ركنة مودرن خشب زان أحمر",
-    "measeures": "حسب المطلوب",
-    "price": "حسب المقاسات والخامات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 15,
-    "name": "ركنة كلاسيك",
-    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
-    "measeures": "مقاسات مختلفة",
-    "price": "يُحدد حسب الحجم والنوع",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 16,
-    "name": "ركنة على شكل L",
-    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
-    "measeures": "مخصص حسب الطلب",
-    "price": "بالاتفاق مع العميل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 17,
-    "name": "ركنة عصرية",
-    "description": "ركنة عصريه بتصميم عملي مريح",
-    "measeures": "اختياري",
-    "price": "حسب الخشب والقماش",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 18,
-    "name": "ركنة زاوية",
-    "description": "ركنة زاوية مثالية للديكور العصري",
-    "measeures": "حسب الفراغ",
-    "price": "على حسب المقاس",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 19,
-    "name": "ركنة جلد",
-    "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
-    "measeures": "حسب اختيارك",
-    "price": "متغيرة حسب النوع",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 20,
-    "name": "ركنة بنقشة مغربية",
-    "description": "تصميم شرقي مستوحى من الطراز المغربي",
-    "measeures": "تفصيل حسب الطلب",
-    "price": "يُحدد بعد المعاينة",
-    "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 21,
-    "name": "ركنة مودرن فخمة",
-    "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
-    "measeures": "حسب الغرفة",
-    "price": "حسب المقاسات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 22,
-    "name": "ركنة ألوان متعددة",
-    "description": "ركنة مناسبة لعشاق الألوان والتنوع",
-    "measeures": "حسب الطلب",
-    "price": "يتم تحديده عند الطلب",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 23,
-    "name": "ركنة فابريكا",
-    "description": "ركنة بتنجيد ناعم وفاخر",
-    "measeures": "مرنة",
-    "price": "يُحدد بعد تحديد التفاصيل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 24,
-    "name": "ركنة ميني",
-    "description": "ركنة صغيرة تناسب المساحات الضيقة",
-    "measeures": "مضبوطة حسب الطلب",
-    "price": "اقتصادي",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 25,
-    "name": "ركنة زاوية بوسائد إضافية",
-    "description": "تصميم مريح مع عدد كبير من الوسائد",
-    "measeures": "يتم تحديدها مع العميل",
-    "price": "حسب الخامة",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 26,
-    "name": "ركنة سادة",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 27,
-    "name": "ركنة مودرن",
-    "description": "ركنة مودرن خشب زان أحمر",
-    "measeures": "حسب المطلوب",
-    "price": "حسب المقاسات والخامات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 28,
-    "name": "ركنة كلاسيك",
-    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
-    "measeures": "مقاسات مختلفة",
-    "price": "يُحدد حسب الحجم والنوع",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 29,
-    "name": "ركنة على شكل L",
-    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
-    "measeures": "مخصص حسب الطلب",
-    "price": "بالاتفاق مع العميل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 30,
-    "name": "ركنة عصرية",
-    "description": "ركنة عصريه بتصميم عملي مريح",
-    "measeures": "اختياري",
-    "price": "حسب الخشب والقماش",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 31,
-    "name": "ركنة زاوية",
-    "description": "ركنة زاوية مثالية للديكور العصري",
-    "measeures": "حسب الفراغ",
-    "price": "على حسب المقاس",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 32,
-    "name": "ركنة جلد",
-    "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
-    "measeures": "حسب اختيارك",
-    "price": "متغيرة حسب النوع",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 33,
-    "name": "ركنة بنقشة مغربية",
-    "description": "تصميم شرقي مستوحى من الطراز المغربي",
-    "measeures": "تفصيل حسب الطلب",
-    "price": "يُحدد بعد المعاينة",
-    "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 34,
-    "name": "ركنة مودرن فخمة",
-    "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
-    "measeures": "حسب الغرفة",
-    "price": "حسب المقاسات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 35,
-    "name": "ركنة مودرن (35)",
-    "description": " ركنة بلون واحد أنيق ومودرن ركنة ركنة ركنة ركنة ركنة مودرن خشب زان أحمر",
-    "measeures": "حسب المطلوب",
-    "price": "حسب المقاسات والخامات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 36,
-    "name": "ركنة كلاسيك (36)",
-    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
-    "measeures": "مقاسات مختلفة",
-    "price": "يُحدد حسب الحجم والنوع",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb2.png",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 37,
-    "name": "ركنة على شكل L (37)",
-    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
-    "measeures": "مخصص حسب الطلب",
-    "price": "بالاتفاق مع العميل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 38,
-    "name": "ركنة عصرية (38)",
-    "description": "ركنة عصريه بتصميم عملي مريح",
-    "measeures": "اختياري",
-    "price": "حسب الخشب والقماش",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 39,
-    "name": "ركنة زاوية (39)",
-    "description": "ركنة زاوية مثالية للديكور العصري",
-    "measeures": "حسب الفراغ",
-    "price": "على حسب المقاس",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 40,
-    "name": "ركنة جلد (40)",
-    "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
-    "measeures": "حسب اختيارك",
-    "price": "متغيرة حسب النوع",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 41,
-    "name": "ركنة بنقشة مغربية (41)",
-    "description": "تصميم شرقي مستوحى من الطراز المغربي",
-    "measeures": "تفصيل حسب الطلب",
-    "price": "يُحدد بعد المعاينة",
-    "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 42,
-    "name": "ركنة مودرن فخمة (42)",
-    "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
-    "measeures": "حسب الغرفة",
-    "price": "حسب المقاسات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 43,
-    "name": "ركنة ألوان متعددة (43)",
-    "description": "ركنة مناسبة لعشاق الألوان والتنوع",
-    "measeures": "حسب الطلب",
-    "price": "يتم تحديده عند الطلب",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 44,
-    "name": "ركنة فابريكا (44)",
-    "description": "ركنة بتنجيد ناعم وفاخر",
-    "measeures": "مرنة",
-    "price": "يُحدد بعد تحديد التفاصيل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 45,
-    "name": "ركنة ميني (45)",
-    "description": "ركنة صغيرة تناسب المساحات الضيقة",
-    "measeures": "مضبوطة حسب الطلب",
-    "price": "اقتصادي",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 46,
-    "name": "ركنة زاوية بوسائد إضافية (46)",
-    "description": "تصميم مريح مع عدد كبير من الوسائد",
-    "measeures": "يتم تحديدها مع العميل",
-    "price": "حسب الخامة",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 47,
-    "name": "ركنة سادة (47)",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 48,
-    "name": "ركنة مودرن (48)",
-    "description": "ركنة مودرن خشب زان أحمر",
-    "measeures": "حسب المطلوب",
-    "price": "حسب المقاسات والخامات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 49,
-    "name": "ركنة كلاسيك (49)",
-    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
-    "measeures": "مقاسات مختلفة",
-    "price": "يُحدد حسب الحجم والنوع",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 50,
-    "name": "ركنة على شكل L (50)",
-    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
-    "measeures": "مخصص حسب الطلب",
-    "price": "بالاتفاق مع العميل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 51,
-    "name": "ركنة عصرية (51)",
-    "description": "ركنة عصريه بتصميم عملي مريح",
-    "measeures": "اختياري",
-    "price": "حسب الخشب والقماش",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 52,
-    "name": "ركنة زاوية (52)",
-    "description": "ركنة زاوية مثالية للديكور العصري",
-    "measeures": "حسب الفراغ",
-    "price": "على حسب المقاس",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 53,
-    "name": "ركنة جلد (53)",
-    "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
-    "measeures": "حسب اختيارك",
-    "price": "متغيرة حسب النوع",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 54,
-    "name": "ركنة بنقشة مغربية (54)",
-    "description": "تصميم شرقي مستوحى من الطراز المغربي",
-    "measeures": "تفصيل حسب الطلب",
-    "price": "يُحدد بعد المعاينة",
-    "afterImg": "products/img7.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 55,
-    "name": "ركنة مودرن فخمة (55)",
-    "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
-    "measeures": "حسب الغرفة",
-    "price": "حسب المقاسات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 56,
-    "name": "ركنة ألوان متعددة (56)",
-    "description": "ركنة مناسبة لعشاق الألوان والتنوع",
-    "measeures": "حسب الطلب",
-    "price": "يتم تحديده عند الطلب",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير بسحارة",
-    "category_id": 3
-  },
-  {
-    "id": 57,
-    "name": "ركنة فابريكا (57)",
-    "description": "ركنة بتنجيد ناعم وفاخر",
-    "measeures": "مرنة",
-    "price": "يُحدد بعد تحديد التفاصيل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "انتريهات",
-    "category_id": 5
-  },
-  {
-    "id": 58,
-    "name": "ركنة ميني (58)",
-    "description": "ركنة صغيرة تناسب المساحات الضيقة",
-    "measeures": "مضبوطة حسب الطلب",
-    "price": "اقتصادي",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 59,
-    "name": "ركنة زاوية بوسائد إضافية (59)",
-    "description": "تصميم مريح مع عدد كبير من الوسائد",
-    "measeures": "يتم تحديدها مع العميل",
-    "price": "حسب الخامة",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 60,
-    "name": "ركنة سادة (60)",
-    "description": "ركنة بلون واحد أنيق ومودرن",
-    "measeures": "حسب الفراغ",
-    "price": "متغيرة",
-    "afterImg": "products/img6.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 61,
-    "name": "ركنة مودرن (61)",
-    "description": "ركنة مودرن خشب زان أحمر",
-    "measeures": "حسب المطلوب",
-    "price": "حسب المقاسات والخامات",
-    "afterImg": "products/img1.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
-  },
-  {
-    "id": 62,
-    "name": "ركنة كلاسيك (62)",
-    "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
-    "measeures": "مقاسات مختلفة",
-    "price": "يُحدد حسب الحجم والنوع",
-    "afterImg": "products/img2.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "كنبة سرير",
-    "category_id": 4
-  },
-  {
-    "id": 63,
-    "name": "ركنة على شكل L (63)",
-    "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
-    "measeures": "مخصص حسب الطلب",
-    "price": "بالاتفاق مع العميل",
-    "afterImg": "products/img3.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 64,
-    "name": "ركنة عصرية (64)",
-    "description": "ركنة عصريه بتصميم عملي مريح",
-    "measeures": "اختياري",
-    "price": "حسب الخشب والقماش",
-    "afterImg": "products/img4.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة سرير",
-    "category_id": 2
-  },
-  {
-    "id": 65,
-    "name": "ركنة زاوية (65)",
-    "description": "ركنة زاوية مثالية للديكور العصري",
-    "measeures": "حسب الفراغ",
-    "price": "على حسب المقاس",
-    "afterImg": "products/img5.jpg",
-    "beforeImg": "products/imgb1.jpg",
-    "category": "ركنة ثابتة",
-    "category_id": 1
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 1,
+      "name": "ركنة مودرن",
+      "description": " ركنة بلون واحد أنيق ومودرن ركنة مودرن خشب زان أحمر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 1001,
+        "product_id": 1,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 11,
+          "product_id": 1,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 12,
+          "product_id": 1,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 458656,
+          "product_id": 1,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 948721,
+          "product_id": 1,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 697440,
+          "product_id": 1,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 2,
+      "name": "ركنة كلاسيك",
+      "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 2001,
+        "product_id": 2,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 21,
+          "product_id": 2,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 22,
+          "product_id": 2,
+          "image_url": "products/imgb2.png",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 387204,
+          "product_id": 2,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 977201,
+          "product_id": 2,
+          "image_url": "products/imgb2.png",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 379494,
+          "product_id": 2,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 3,
+      "name": "ركنة على شكل L",
+      "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 3001,
+        "product_id": 3,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 31,
+          "product_id": 3,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 32,
+          "product_id": 3,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 150479,
+          "product_id": 3,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 198364,
+          "product_id": 3,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 131071,
+          "product_id": 3,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 4,
+      "name": "ركنة عصرية",
+      "description": "ركنة عصريه بتصميم عملي مريح",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 4001,
+        "product_id": 4,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 41,
+          "product_id": 4,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 42,
+          "product_id": 4,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 578247,
+          "product_id": 4,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 691805,
+          "product_id": 4,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 674918,
+          "product_id": 4,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 5,
+      "name": "ركنة زاوية",
+      "description": "ركنة زاوية مثالية للديكور العصري",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 5001,
+        "product_id": 5,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 51,
+          "product_id": 5,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 52,
+          "product_id": 5,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 610712,
+          "product_id": 5,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 718544,
+          "product_id": 5,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 801628,
+          "product_id": 5,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 6,
+      "name": "ركنة جلد",
+      "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 6001,
+        "product_id": 6,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 61,
+          "product_id": 6,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 62,
+          "product_id": 6,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 670327,
+          "product_id": 6,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 543161,
+          "product_id": 6,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 665879,
+          "product_id": 6,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 7,
+      "name": "ركنة بنقشة مغربية",
+      "description": "تصميم شرقي مستوحى من الطراز المغربي",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 7001,
+        "product_id": 7,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 71,
+          "product_id": 7,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 72,
+          "product_id": 7,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 907937,
+          "product_id": 7,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 728048,
+          "product_id": 7,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 711343,
+          "product_id": 7,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 8,
+      "name": "ركنة مودرن فخمة",
+      "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 8001,
+        "product_id": 8,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 81,
+          "product_id": 8,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 82,
+          "product_id": 8,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 646099,
+          "product_id": 8,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 797532,
+          "product_id": 8,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 439084,
+          "product_id": 8,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 9,
+      "name": "ركنة ألوان متعددة",
+      "description": "ركنة مناسبة لعشاق الألوان والتنوع",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 9001,
+        "product_id": 9,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 91,
+          "product_id": 9,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 92,
+          "product_id": 9,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 401784,
+          "product_id": 9,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 537096,
+          "product_id": 9,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 631614,
+          "product_id": 9,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 10,
+      "name": "ركنة فابريكا",
+      "description": "ركنة بتنجيد ناعم وفاخر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 10001,
+        "product_id": 10,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 101,
+          "product_id": 10,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 102,
+          "product_id": 10,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 163660,
+          "product_id": 10,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 434348,
+          "product_id": 10,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 406095,
+          "product_id": 10,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 11,
+      "name": "ركنة ميني",
+      "description": "ركنة صغيرة تناسب المساحات الضيقة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 11001,
+        "product_id": 11,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 111,
+          "product_id": 11,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 112,
+          "product_id": 11,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 825668,
+          "product_id": 11,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 778491,
+          "product_id": 11,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 324358,
+          "product_id": 11,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 12,
+      "name": "ركنة زاوية بوسائد إضافية",
+      "description": "تصميم مريح مع عدد كبير من الوسائد",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 12001,
+        "product_id": 12,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 121,
+          "product_id": 12,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 122,
+          "product_id": 12,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 251498,
+          "product_id": 12,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 473629,
+          "product_id": 12,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 447467,
+          "product_id": 12,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 13,
+      "name": "ركنة سادة",
+      "description": "ركنة بلون واحد أنيق ومودرن",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 13001,
+        "product_id": 13,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 131,
+          "product_id": 13,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 132,
+          "product_id": 13,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 576010,
+          "product_id": 13,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 590687,
+          "product_id": 13,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 695389,
+          "product_id": 13,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 14,
+      "name": "ركنة مودرن",
+      "description": "ركنة مودرن خشب زان أحمر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 14001,
+        "product_id": 14,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 141,
+          "product_id": 14,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 142,
+          "product_id": 14,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 114357,
+          "product_id": 14,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 196198,
+          "product_id": 14,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 506170,
+          "product_id": 14,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 15,
+      "name": "ركنة كلاسيك",
+      "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 15001,
+        "product_id": 15,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 151,
+          "product_id": 15,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 152,
+          "product_id": 15,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 216846,
+          "product_id": 15,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 697777,
+          "product_id": 15,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 587971,
+          "product_id": 15,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 16,
+      "name": "ركنة على شكل L",
+      "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 16001,
+        "product_id": 16,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 161,
+          "product_id": 16,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 162,
+          "product_id": 16,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 813978,
+          "product_id": 16,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 507330,
+          "product_id": 16,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 581302,
+          "product_id": 16,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 17,
+      "name": "ركنة عصرية",
+      "description": "ركنة عصريه بتصميم عملي مريح",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 17001,
+        "product_id": 17,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 171,
+          "product_id": 17,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 172,
+          "product_id": 17,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 744703,
+          "product_id": 17,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 390286,
+          "product_id": 17,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 218382,
+          "product_id": 17,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 18,
+      "name": "ركنة زاوية",
+      "description": "ركنة زاوية مثالية للديكور العصري",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 18001,
+        "product_id": 18,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 181,
+          "product_id": 18,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 182,
+          "product_id": 18,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 218656,
+          "product_id": 18,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 600868,
+          "product_id": 18,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 801152,
+          "product_id": 18,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 19,
+      "name": "ركنة جلد",
+      "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 19001,
+        "product_id": 19,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 191,
+          "product_id": 19,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 192,
+          "product_id": 19,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 215660,
+          "product_id": 19,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 514247,
+          "product_id": 19,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 180289,
+          "product_id": 19,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 20,
+      "name": "ركنة بنقشة مغربية",
+      "description": "تصميم شرقي مستوحى من الطراز المغربي",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 20001,
+        "product_id": 20,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 201,
+          "product_id": 20,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 202,
+          "product_id": 20,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 353177,
+          "product_id": 20,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 468244,
+          "product_id": 20,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 252866,
+          "product_id": 20,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 21,
+      "name": "ركنة مودرن فخمة",
+      "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 21001,
+        "product_id": 21,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 211,
+          "product_id": 21,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 212,
+          "product_id": 21,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 453361,
+          "product_id": 21,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 928784,
+          "product_id": 21,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 897767,
+          "product_id": 21,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 22,
+      "name": "ركنة ألوان متعددة",
+      "description": "ركنة مناسبة لعشاق الألوان والتنوع",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 22001,
+        "product_id": 22,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 221,
+          "product_id": 22,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 222,
+          "product_id": 22,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 631847,
+          "product_id": 22,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 354621,
+          "product_id": 22,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 603573,
+          "product_id": 22,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 23,
+      "name": "ركنة فابريكا",
+      "description": "ركنة بتنجيد ناعم وفاخر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 23001,
+        "product_id": 23,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 231,
+          "product_id": 23,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 232,
+          "product_id": 23,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 831859,
+          "product_id": 23,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 567760,
+          "product_id": 23,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 761238,
+          "product_id": 23,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 24,
+      "name": "ركنة ميني",
+      "description": "ركنة صغيرة تناسب المساحات الضيقة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 24001,
+        "product_id": 24,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 241,
+          "product_id": 24,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 242,
+          "product_id": 24,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 161846,
+          "product_id": 24,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 740795,
+          "product_id": 24,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 583935,
+          "product_id": 24,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 25,
+      "name": "ركنة زاوية بوسائد إضافية",
+      "description": "تصميم مريح مع عدد كبير من الوسائد",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 25001,
+        "product_id": 25,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 251,
+          "product_id": 25,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 252,
+          "product_id": 25,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 117274,
+          "product_id": 25,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 362016,
+          "product_id": 25,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 920266,
+          "product_id": 25,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 26,
+      "name": "ركنة سادة",
+      "description": "ركنة بلون واحد أنيق ومودرن",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 26001,
+        "product_id": 26,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 261,
+          "product_id": 26,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 262,
+          "product_id": 26,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 709253,
+          "product_id": 26,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 370154,
+          "product_id": 26,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 522084,
+          "product_id": 26,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 27,
+      "name": "ركنة مودرن",
+      "description": "ركنة مودرن خشب زان أحمر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 27001,
+        "product_id": 27,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 271,
+          "product_id": 27,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 272,
+          "product_id": 27,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 786258,
+          "product_id": 27,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 417440,
+          "product_id": 27,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 194916,
+          "product_id": 27,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 28,
+      "name": "ركنة كلاسيك",
+      "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 28001,
+        "product_id": 28,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 281,
+          "product_id": 28,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 282,
+          "product_id": 28,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 340985,
+          "product_id": 28,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 493507,
+          "product_id": 28,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 874727,
+          "product_id": 28,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 29,
+      "name": "ركنة على شكل L",
+      "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 29001,
+        "product_id": 29,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 291,
+          "product_id": 29,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 292,
+          "product_id": 29,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 699706,
+          "product_id": 29,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 177337,
+          "product_id": 29,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 776083,
+          "product_id": 29,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 30,
+      "name": "ركنة عصرية",
+      "description": "ركنة عصريه بتصميم عملي مريح",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 30001,
+        "product_id": 30,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 301,
+          "product_id": 30,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 302,
+          "product_id": 30,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 404516,
+          "product_id": 30,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 533123,
+          "product_id": 30,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 858306,
+          "product_id": 30,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 31,
+      "name": "ركنة زاوية",
+      "description": "ركنة زاوية مثالية للديكور العصري",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 31001,
+        "product_id": 31,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 311,
+          "product_id": 31,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 312,
+          "product_id": 31,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 500658,
+          "product_id": 31,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 950141,
+          "product_id": 31,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 771377,
+          "product_id": 31,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 32,
+      "name": "ركنة جلد",
+      "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 32001,
+        "product_id": 32,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 321,
+          "product_id": 32,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 322,
+          "product_id": 32,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 812614,
+          "product_id": 32,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 587791,
+          "product_id": 32,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 373575,
+          "product_id": 32,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 33,
+      "name": "ركنة بنقشة مغربية",
+      "description": "تصميم شرقي مستوحى من الطراز المغربي",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 33001,
+        "product_id": 33,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 331,
+          "product_id": 33,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 332,
+          "product_id": 33,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 681111,
+          "product_id": 33,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 835197,
+          "product_id": 33,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 114131,
+          "product_id": 33,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 34,
+      "name": "ركنة مودرن فخمة",
+      "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 34001,
+        "product_id": 34,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 341,
+          "product_id": 34,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 342,
+          "product_id": 34,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 331335,
+          "product_id": 34,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 165086,
+          "product_id": 34,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 655661,
+          "product_id": 34,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 35,
+      "name": "ركنة مودرن (35)",
+      "description": " ركنة بلون واحد أنيق ومودرن ركنة ركنة ركنة ركنة ركنة مودرن خشب زان أحمر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 35001,
+        "product_id": 35,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 351,
+          "product_id": 35,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 352,
+          "product_id": 35,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 102708,
+          "product_id": 35,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 515175,
+          "product_id": 35,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 337356,
+          "product_id": 35,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 36,
+      "name": "ركنة كلاسيك (36)",
+      "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 36001,
+        "product_id": 36,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 361,
+          "product_id": 36,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 362,
+          "product_id": 36,
+          "image_url": "products/imgb2.png",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 572670,
+          "product_id": 36,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 708688,
+          "product_id": 36,
+          "image_url": "products/imgb2.png",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 360805,
+          "product_id": 36,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 37,
+      "name": "ركنة على شكل L (37)",
+      "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 37001,
+        "product_id": 37,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 371,
+          "product_id": 37,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 372,
+          "product_id": 37,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 638260,
+          "product_id": 37,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 352337,
+          "product_id": 37,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 690998,
+          "product_id": 37,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 38,
+      "name": "ركنة عصرية (38)",
+      "description": "ركنة عصريه بتصميم عملي مريح",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 38001,
+        "product_id": 38,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 381,
+          "product_id": 38,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 382,
+          "product_id": 38,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 321149,
+          "product_id": 38,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 389534,
+          "product_id": 38,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 422365,
+          "product_id": 38,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 39,
+      "name": "ركنة زاوية (39)",
+      "description": "ركنة زاوية مثالية للديكور العصري",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 39001,
+        "product_id": 39,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 391,
+          "product_id": 39,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 392,
+          "product_id": 39,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 511950,
+          "product_id": 39,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 645911,
+          "product_id": 39,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 136278,
+          "product_id": 39,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 40,
+      "name": "ركنة جلد (40)",
+      "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 40001,
+        "product_id": 40,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 401,
+          "product_id": 40,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 402,
+          "product_id": 40,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 540124,
+          "product_id": 40,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 339511,
+          "product_id": 40,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 770045,
+          "product_id": 40,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 41,
+      "name": "ركنة بنقشة مغربية (41)",
+      "description": "تصميم شرقي مستوحى من الطراز المغربي",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 41001,
+        "product_id": 41,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 411,
+          "product_id": 41,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 412,
+          "product_id": 41,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 528097,
+          "product_id": 41,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 465072,
+          "product_id": 41,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 384270,
+          "product_id": 41,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 42,
+      "name": "ركنة مودرن فخمة (42)",
+      "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 42001,
+        "product_id": 42,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 421,
+          "product_id": 42,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 422,
+          "product_id": 42,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 306097,
+          "product_id": 42,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 972599,
+          "product_id": 42,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 308562,
+          "product_id": 42,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 43,
+      "name": "ركنة ألوان متعددة (43)",
+      "description": "ركنة مناسبة لعشاق الألوان والتنوع",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 43001,
+        "product_id": 43,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 431,
+          "product_id": 43,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 432,
+          "product_id": 43,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 507132,
+          "product_id": 43,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 226179,
+          "product_id": 43,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 468090,
+          "product_id": 43,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 44,
+      "name": "ركنة فابريكا (44)",
+      "description": "ركنة بتنجيد ناعم وفاخر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 44001,
+        "product_id": 44,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 441,
+          "product_id": 44,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 442,
+          "product_id": 44,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 581048,
+          "product_id": 44,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 963784,
+          "product_id": 44,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 645826,
+          "product_id": 44,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 45,
+      "name": "ركنة ميني (45)",
+      "description": "ركنة صغيرة تناسب المساحات الضيقة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 45001,
+        "product_id": 45,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 451,
+          "product_id": 45,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 452,
+          "product_id": 45,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 764095,
+          "product_id": 45,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 353891,
+          "product_id": 45,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 265552,
+          "product_id": 45,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 46,
+      "name": "ركنة زاوية بوسائد إضافية (46)",
+      "description": "تصميم مريح مع عدد كبير من الوسائد",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 46001,
+        "product_id": 46,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 461,
+          "product_id": 46,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 462,
+          "product_id": 46,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 788501,
+          "product_id": 46,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 662511,
+          "product_id": 46,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 428193,
+          "product_id": 46,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 47,
+      "name": "ركنة سادة (47)",
+      "description": "ركنة بلون واحد أنيق ومودرن",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 47001,
+        "product_id": 47,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 471,
+          "product_id": 47,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 472,
+          "product_id": 47,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 842632,
+          "product_id": 47,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 466349,
+          "product_id": 47,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 427508,
+          "product_id": 47,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 48,
+      "name": "ركنة مودرن (48)",
+      "description": "ركنة مودرن خشب زان أحمر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 48001,
+        "product_id": 48,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 481,
+          "product_id": 48,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 482,
+          "product_id": 48,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 444224,
+          "product_id": 48,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 615177,
+          "product_id": 48,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 848114,
+          "product_id": 48,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 49,
+      "name": "ركنة كلاسيك (49)",
+      "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 49001,
+        "product_id": 49,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 491,
+          "product_id": 49,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 492,
+          "product_id": 49,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 940928,
+          "product_id": 49,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 732209,
+          "product_id": 49,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 787891,
+          "product_id": 49,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 50,
+      "name": "ركنة على شكل L (50)",
+      "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 50001,
+        "product_id": 50,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 501,
+          "product_id": 50,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 502,
+          "product_id": 50,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 992721,
+          "product_id": 50,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 786611,
+          "product_id": 50,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 623521,
+          "product_id": 50,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 51,
+      "name": "ركنة عصرية (51)",
+      "description": "ركنة عصريه بتصميم عملي مريح",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 51001,
+        "product_id": 51,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 511,
+          "product_id": 51,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 512,
+          "product_id": 51,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 197313,
+          "product_id": 51,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 543338,
+          "product_id": 51,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 578404,
+          "product_id": 51,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 52,
+      "name": "ركنة زاوية (52)",
+      "description": "ركنة زاوية مثالية للديكور العصري",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 52001,
+        "product_id": 52,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 521,
+          "product_id": 52,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 522,
+          "product_id": 52,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 577009,
+          "product_id": 52,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 752850,
+          "product_id": 52,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 834529,
+          "product_id": 52,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 53,
+      "name": "ركنة جلد (53)",
+      "description": "ركنة جلد فاخرة تناسب المكاتب أو المنازل الحديثة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 53001,
+        "product_id": 53,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 531,
+          "product_id": 53,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 532,
+          "product_id": 53,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 370593,
+          "product_id": 53,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 499767,
+          "product_id": 53,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 668506,
+          "product_id": 53,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 54,
+      "name": "ركنة بنقشة مغربية (54)",
+      "description": "تصميم شرقي مستوحى من الطراز المغربي",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 54001,
+        "product_id": 54,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 541,
+          "product_id": 54,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 542,
+          "product_id": 54,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 767325,
+          "product_id": 54,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 839825,
+          "product_id": 54,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 947350,
+          "product_id": 54,
+          "image_url": "products/img7.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 55,
+      "name": "ركنة مودرن فخمة (55)",
+      "description": "ركنة بتصميم حديث وأقمشة عالية الجودة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 55001,
+        "product_id": 55,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 551,
+          "product_id": 55,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 552,
+          "product_id": 55,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 511100,
+          "product_id": 55,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 735845,
+          "product_id": 55,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 455601,
+          "product_id": 55,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 56,
+      "name": "ركنة ألوان متعددة (56)",
+      "description": "ركنة مناسبة لعشاق الألوان والتنوع",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 56001,
+        "product_id": 56,
+        "category_id": 3,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 561,
+          "product_id": 56,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 562,
+          "product_id": 56,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 687525,
+          "product_id": 56,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 914080,
+          "product_id": 56,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 204221,
+          "product_id": 56,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 57,
+      "name": "ركنة فابريكا (57)",
+      "description": "ركنة بتنجيد ناعم وفاخر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 57001,
+        "product_id": 57,
+        "category_id": 5,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 571,
+          "product_id": 57,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 572,
+          "product_id": 57,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 892265,
+          "product_id": 57,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 169680,
+          "product_id": 57,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 330320,
+          "product_id": 57,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 58,
+      "name": "ركنة ميني (58)",
+      "description": "ركنة صغيرة تناسب المساحات الضيقة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 58001,
+        "product_id": 58,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 581,
+          "product_id": 58,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 582,
+          "product_id": 58,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 924344,
+          "product_id": 58,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 240154,
+          "product_id": 58,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 996356,
+          "product_id": 58,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 59,
+      "name": "ركنة زاوية بوسائد إضافية (59)",
+      "description": "تصميم مريح مع عدد كبير من الوسائد",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 59001,
+        "product_id": 59,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 591,
+          "product_id": 59,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 592,
+          "product_id": 59,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 973198,
+          "product_id": 59,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 806288,
+          "product_id": 59,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 510651,
+          "product_id": 59,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 60,
+      "name": "ركنة سادة (60)",
+      "description": "ركنة بلون واحد أنيق ومودرن",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 60001,
+        "product_id": 60,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 601,
+          "product_id": 60,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 602,
+          "product_id": 60,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 904899,
+          "product_id": 60,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 234217,
+          "product_id": 60,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 884279,
+          "product_id": 60,
+          "image_url": "products/img6.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 61,
+      "name": "ركنة مودرن (61)",
+      "description": "ركنة مودرن خشب زان أحمر",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 61001,
+        "product_id": 61,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 611,
+          "product_id": 61,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 612,
+          "product_id": 61,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 296314,
+          "product_id": 61,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 136435,
+          "product_id": 61,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 604086,
+          "product_id": 61,
+          "image_url": "products/img1.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 62,
+      "name": "ركنة كلاسيك (62)",
+      "description": "تصميم كلاسيكي مميز مع تشطيبات فخمة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 62001,
+        "product_id": 62,
+        "category_id": 4,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 621,
+          "product_id": 62,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 622,
+          "product_id": 62,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 567199,
+          "product_id": 62,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 570506,
+          "product_id": 62,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 930285,
+          "product_id": 62,
+          "image_url": "products/img2.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 63,
+      "name": "ركنة على شكل L (63)",
+      "description": "ركنة أنيقة على شكل L تناسب المساحات الصغيرة",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 63001,
+        "product_id": 63,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 631,
+          "product_id": 63,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 632,
+          "product_id": 63,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 691293,
+          "product_id": 63,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 158364,
+          "product_id": 63,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 570763,
+          "product_id": 63,
+          "image_url": "products/img3.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 64,
+      "name": "ركنة عصرية (64)",
+      "description": "ركنة عصريه بتصميم عملي مريح",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 64001,
+        "product_id": 64,
+        "category_id": 2,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 641,
+          "product_id": 64,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 642,
+          "product_id": 64,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 457331,
+          "product_id": 64,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 705912,
+          "product_id": 64,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 627413,
+          "product_id": 64,
+          "image_url": "products/img4.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
+  },
+  {
+    "message": "product is updated successfully!",
+    "product": {
+      "id": 65,
+      "name": "ركنة زاوية (65)",
+      "description": "ركنة زاوية مثالية للديكور العصري",
+      "created_at": "2025-08-09T16:08:03.000000Z",
+      "updated_at": "2025-08-09T16:08:03.000000Z",
+      "product_categories": {
+        "id": 65001,
+        "product_id": 65,
+        "category_id": 1,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "creator": {
+        "id": 1,
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "updater": {
+        "id": 2,
+        "name": "Editor User",
+        "email": "editor@example.com",
+        "email_verified_at": "2025-08-09T16:08:03.000000Z",
+        "role": true,
+        "created_at": "2025-08-09T16:08:03.000000Z",
+        "updated_at": "2025-08-09T16:08:03.000000Z"
+      },
+      "product_images": [
+        {
+          "id": 651,
+          "product_id": 65,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 652,
+          "product_id": 65,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 497131,
+          "product_id": 65,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 400081,
+          "product_id": 65,
+          "image_url": "products/imgb1.jpg",
+          "before_or_after": 0,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        },
+        {
+          "id": 850148,
+          "product_id": 65,
+          "image_url": "products/img5.jpg",
+          "before_or_after": 1,
+          "created_at": "2025-08-09T16:08:03.000000Z",
+          "updated_at": "2025-08-09T16:08:03.000000Z"
+        }
+      ]
+    },
+    "success": [
+      "image is updated successfully!",
+      "product categories are updated successfully!"
+    ]
   }
 ]
