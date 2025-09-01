@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Diab/static/css/main.a8c707f1.css",
+    "main.css": "/Diab/static/css/main.a828bdba.css",
     "main.js": "/Diab/static/js/main.7577cf5d.js",
     "static/js/453.295670d1.chunk.js": "/Diab/static/js/453.295670d1.chunk.js",
     "index.html": "/Diab/index.html",
-    "main.a8c707f1.css.map": "/Diab/static/css/main.a8c707f1.css.map",
+    "main.a828bdba.css.map": "/Diab/static/css/main.a828bdba.css.map",
     "main.7577cf5d.js.map": "/Diab/static/js/main.7577cf5d.js.map",
     "453.295670d1.chunk.js.map": "/Diab/static/js/453.295670d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8c707f1.css",
+    "static/css/main.a828bdba.css",
     "static/js/main.7577cf5d.js"
   ]
 }
