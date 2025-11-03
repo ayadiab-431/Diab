@@ -1,0 +1,41 @@
+.splash-screen {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--latte);
+    z-index: 9999;
+}
+.splash-screen .splash-logo {
+    animation: fadeLogo 2s ease-in-out infinite;
+    -webkit-animation: fadeLogo 2s ease-in-out infinite;
+    opacity: 0.7;
+}
+
+@keyframes fadeLogo {
+    0% {
+        opacity: 0.3;
+        transform: scale(0.95);
+        -webkit-transform: scale(0.95);
+        -moz-transform: scale(0.95);
+        -ms-transform: scale(0.95);
+        -o-transform: scale(0.95);
+}
+    50% {
+        opacity: 1;
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+}
+    100% {
+        opacity: 0.3;
+        transform: scale(0.95);
+        -webkit-transform: scale(0.95);
+        -moz-transform: scale(0.95);
+        -ms-transform: scale(0.95);
+        -o-transform: scale(0.95);
+}
+}

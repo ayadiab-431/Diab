@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import './Card.css';
 
 export default function Card({ id, name, beforeImage, afterImage, description }) {
@@ -17,7 +18,7 @@ export default function Card({ id, name, beforeImage, afterImage, description })
         }, [id]);
 
     return (
-        <div className="card">
+        <div className="card fade-in">
             <div id={`carousel-${id}`} className="carousel slide" data-bs-ride="carousel" data-bs-interval="5000">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
@@ -53,7 +54,9 @@ export default function Card({ id, name, beforeImage, afterImage, description })
                 <h5 className="card-title">{name}</h5>
                 <p className="card-text">{description}</p>
                 <div className="button d-flex justify-content-center align-items-center">
-                    <button>عرض التفاصيل</button>
+                    <button>
+                        <Link to={`/product/${id}`} style = {{color: 'var(--latte)'}}>عرض التفاصيل</Link>
+                        </button>
                 </div>
             </div>
         </div>

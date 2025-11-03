@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Slider from "../Slider/Slider";
 import './MainSection.css';
+import { useContext } from "react";
+import { HeaderHeight } from "../../Contexts/Contexts";
 export default function MainSection({paddingTop}) {
 
     // ---------------- Images for slider ------------------
@@ -19,10 +21,14 @@ export default function MainSection({paddingTop}) {
 
     // ------------- Navigation -----------
         const navigate = useNavigate();
+
+    // ------------- Get Header Height -----------
+    const {headerHeight} = useContext(HeaderHeight);
+    
     return (
         <section 
         className="main-sec" 
-        style={{'--padding-top' : `${paddingTop}px`}}>
+        style={{'--padding-top' : `${headerHeight}px`}}>
             <div className="sec-container">
                 <div className="slider-img">
                     <Slider  images={sliderImgs}/>

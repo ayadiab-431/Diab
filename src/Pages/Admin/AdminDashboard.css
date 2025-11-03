@@ -1,0 +1,8 @@
+.dashboard {
+    margin: 1.5rem;
+}
+@media (min-width: 992px) {
+    .dashboard {
+        margin-right: calc(20% + 1.5rem);
+    }
+}

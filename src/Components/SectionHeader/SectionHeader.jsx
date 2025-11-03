@@ -1,5 +1,9 @@
+import './SectionHeader.css';
+
 export default function SectionHeader({header = ""}){
     return(
-        <h2 style={{color: "var(--dark-coffee)", fontWeight: "bold"}}>{header}</h2>
+        <div className={`sec-address mb-5`}>
+            <h2 className='section-header'>{header}</h2>
+        </div>
     );
 }

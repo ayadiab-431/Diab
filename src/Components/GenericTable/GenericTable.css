@@ -1,0 +1,65 @@
+
+.table-container {
+    background-color: var(--light-cream);
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+} 
+.table-container::-webkit-scrollbar {
+    height: 7px;
+}
+.tab-table {
+    border-collapse: separate;
+    text-align: center;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+}
+.tab-table .table-header {
+    color: var(--dark-coffee);
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.tab-table .table-header.shadow {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+} 
+.tab-table .table-header th {
+    padding: 0.5rem;
+    min-width: 100px;
+}
+/* table body */
+.tab-table .table-row td {
+    padding: 0.5rem 0.25rem;
+    color: var(--coffee);
+    min-width: 100px;
+}
+.tab-table .table-row:not(:last-of-type) td {
+    border-bottom: 1px solid var(--latte);
+} 
+.tab-table .table-row  img {
+    width: 50px;
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+}
+.tab-table .table-row .product-actions i {
+    font-size: 1.125rem;
+}
+.tab-table .table-row .product-actions i, 
+.tab-table .table-row .product-actions svg {
+    cursor: pointer;
+}
+.tab-table .table-row .product-actions .action-edit{
+    color: var(--dark-coffee) ;
+}
+.tab-table .table-row .product-actions .action-delete{
+    color: red ;
+}

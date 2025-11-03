@@ -11,10 +11,15 @@
     --coffee: #74512d;
     --light-coffee: #af8f6f;
     --latte: #f8f4e1;
+    --light-cream : #fcfcfc;
     --golden-beige: #e3c78a;
+    --paragraph-color:  #977c4f;
+    --black: #2c2c2c;
     --main-heading-font: "Tajawal", sans-serif;
     --pragraph-font: "Almarai", sans-serif;
-
+    --border-radius: 8px;
+    --top-padd: 3rem;
+    --box-shadow: 0 4px 12px rgba(84, 51, 16, 0.15);
 }
 ul {
     list-style: none;
@@ -48,4 +53,7 @@ body {
 ::-webkit-scrollbar-thumb:hover {
     background-color: var(--dark-coffee);
 }
-
+::selection {
+    background-color: var(--coffee);
+    color: var(--latte);
+}

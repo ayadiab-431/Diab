@@ -1,0 +1,118 @@
+.login-form-container {
+    background-color: var(--light-cream);
+    max-width: 450px;
+    flex-grow: 1;
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2.5rem;
+    gap: 1rem;
+}
+.login-form-container .logo > img {
+    max-width: 135px;
+}
+.login-form-container #login-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 1rem;
+}
+.login-form-container #login-form  .input {
+    width: 100%;
+}
+.login-form-container #login-form  .input input {
+    border: 1.5px solid var(--light-coffee);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    width: 100%;
+    padding: 0.5rem;
+    color: var(--dark-coffee);
+    outline: none;
+    transition: 0.1s ease-in-out;
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -ms-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    background-color: var(--latte);
+}
+.login-form-container #login-form  .input input:focus {
+    border: 1.5px solid var(--coffee);
+}
+.login-form-container #login-form  .input input::placeholder {
+    color: var(--coffee);
+    opacity: 0.7;
+    font-size: 14px;
+}
+.login-form-container #login-form #submit-btn {
+    width: 100%;
+    background-color: var(--dark-coffee);
+    color: var(--latte);
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -ms-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+}
+.login-form-container #login-form #submit-btn:hover {
+    background-color: var(--coffee);
+}
+.login-form-container #forgot-password {
+    color: var(--light-coffee);
+    font-size: 14px;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -ms-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+}
+.login-form-container #forgot-password:hover {
+    color: var(--dark-coffee);
+    text-decoration: underline;
+}
+.login-form-container .another-login-container {
+    margin: 0 auto;
+    text-align: center;
+}
+.login-form-container .another-login-container .or::before {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 1px;
+    background-color: var(--light-coffee);
+    top: 50%;
+    left: -45%;
+}
+.login-form-container .another-login-container .or::after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 1px;
+    background-color: var(--light-coffee);
+    top: 50%;
+    right: -45%;
+}
+.login-form-container .another-login-container .another-login img{
+    max-width: 100%;
+    width: 35px;
+}
+
+/* Error Msg */
+.login-form-container .err-msg {
+    font-size: 12px;
+    color: red;
+}

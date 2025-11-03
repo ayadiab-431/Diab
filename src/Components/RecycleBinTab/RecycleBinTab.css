@@ -1,0 +1,21 @@
+.recycle-bin-tab .trash-tabs {
+    border-bottom: 1px solid var(--golden-beige);
+}
+.recycle-bin-tab .trash-tabs .tab-btn {
+    background: none;
+    border: none;
+    color: var(--coffee);
+    padding-bottom: 1rem;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -ms-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    font-weight: bold;
+}
+.recycle-bin-tab .trash-tabs .tab-btn:hover {
+    color: var(--dark-coffee);
+}
+.recycle-bin-tab .trash-tabs .tab-btn.selected {
+    border-bottom: 1px solid var(--dark-coffee);
+}

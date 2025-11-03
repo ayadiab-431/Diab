@@ -1,0 +1,17 @@
+.pagination .btn-page,
+.pagination .arrow-btn {
+    background-color: var(--light-coffee);
+    color: var(--dark-coffee) !important;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    border: 1px solid var(--coffee);
+}
+.pagination .btn-page.active,
+.pagination .btn-page:hover,
+.pagination .arrow-btn:hover {
+    background-color: var(--dark-coffee);
+        color: var(--latte) !important;
+}

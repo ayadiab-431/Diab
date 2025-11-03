@@ -1,0 +1,67 @@
+.admin-sidebar {
+    background-color: var(--dark-coffee);
+    height: 100vh;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+.admin-sidebar.open {
+    right: 0;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 99;
+}
+/* Logo */
+.admin-sidebar .logo > img{
+    width: 150px;
+    height: 65px;
+}
+.admin-sidebar .sidebar-menu {
+    color: var(--latte);
+}
+.admin-sidebar .sidebar-menu .menu-item,
+.admin-sidebar .log-out{
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -ms-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.admin-sidebar .sidebar-menu .menu-item:hover,
+.admin-sidebar .sidebar-menu .menu-item.active,
+.admin-sidebar .log-out:hover {
+    background-color: var(--coffee);
+}
+.admin-sidebar .log-out {
+    color: var(--latte);
+    margin-top: auto;
+}
+@media (max-width: 991px) {
+    .admin-sidebar {
+        position: absolute;
+        right: -85%;
+        z-index: 100;
+        width: 65%;
+        transition: 0.3s ease-in-out right;
+        -webkit-transition: 0.3s ease-in-out right;
+        -moz-transition: 0.3s ease-in-out right;
+        -ms-transition: 0.3s ease-in-out right;
+        -o-transition: 0.3s ease-in-out right;
+}
+}

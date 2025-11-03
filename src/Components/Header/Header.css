@@ -4,12 +4,9 @@
 }
 
 /* Logo */
-.header .logo h2 > a {
-    color: var(--latte);
-    font-family: var(--pragraph-font) !important;
-    /* font-family: var(--main-heading-font) !important; */
-    font-size: clamp(2.5rem, 5vw, 3rem);
-    font-weight: bold;
+.header .logo > img{
+    width: 150px;
+    height: 65px;
 }
 
 /* Navbar */

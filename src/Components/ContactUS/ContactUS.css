@@ -1,0 +1,83 @@
+/* ContactUS.css */
+.contact-us-sec {
+    padding-top: calc(var(--padding-top) + var(--top-padd));
+}
+
+.contact-us-sec .sec-address {
+    text-align: center;
+}
+
+.contact-us-sec .section-header {
+    color: var(--dark-coffee);
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+}
+
+.contact-us-sec .sec-address .discreption {
+    color: var(--coffee);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+}
+
+.contact-us-details {
+    gap: 20px;
+}
+
+.contact-info-container {
+    flex: 1;
+    min-width: 300px;
+}
+
+.contact-card {
+    background-color: var(--light-cream);
+    padding: 1.5rem;
+    border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+    height: auto;
+}
+
+.contact-title {
+    color: var(--dark-coffee);
+    font-weight: bold;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.5rem;
+    font-size: 18px;
+}
+
+.phone-item, .social-item {
+    padding: 0.5rem 0;
+    color: var(--golden-beige);
+}
+
+.icons-container {
+    min-width: 60px;
+}
+
+.phone-number, .address-text, .work-time, .facebook, .whatsapp{
+    color: var(--coffee);
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.map-container {
+    flex: 1.5;
+    min-width: 300px;
+    min-height: 450px;
+}
+.map-container .map {
+    border-radius: var(--border-radius);
+}
+
+@media (max-width: 768px) {
+    .contact-us-details {
+        flex-direction: column;
+    }
+    
+    .contact-info-container, .map-container {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}

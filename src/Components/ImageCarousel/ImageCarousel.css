@@ -1,0 +1,77 @@
+.product-img-carousel {
+  max-width: 100%;
+  overflow: hidden;  
+}
+/* Swiper Carousel */
+.swiper {
+  flex: 1 1 400px;
+  max-width: 600px;
+}
+
+.swiper-slide {
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  -webkit-border-radius: 20px;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+
+.mySwiper2 {
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+.mySwiper {
+  height: 20%;
+  box-sizing: border-box;
+  padding: 10px 0;
+}
+.mySwiper .swiper-slide {
+  width: 25%;
+  height: 100%;
+  opacity: 0.4;
+  transition: 0.3s opacity ease-in-out;
+  -webkit-transition: 0.3s opacity ease-in-out;
+  -moz-transition: 0.3s opacity ease-in-out;
+  -ms-transition: 0.3s opacity ease-in-out;
+  -o-transition: 0.3s opacity ease-in-out;
+}
+
+.mySwiper .swiper-slide-thumb-active {
+  opacity: 1;
+}
+
+/* تعديل شكل أسهم السويبر */
+.mySwiper2 .swiper-button-prev,
+.mySwiper2 .swiper-button-next {
+  color: var(--dark-coffee); /* اللون الأساسي */
+  background-color: rgba(255, 255, 255, 0.8); /* خلفية فاتحة وشفافة */
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  transition: all 0.3s ease-in-out;
+}
+
+.mySwiper2 .swiper-button-prev:hover,
+.mySwiper2 .swiper-button-next:hover {
+  background-color: var(--dark-coffee);
+  color: #fff;
+}
+
+/* لتكبير الأيقونة نفسها */
+.mySwiper2 .swiper-button-prev::after,
+.mySwiper2 .swiper-button-next::after {
+  font-size: 22px;
+  font-weight: bold;
+}

@@ -1,0 +1,70 @@
+.order-steps {
+    padding-top:  calc(var(--padding-top) + 3rem);
+    padding-bottom: 3rem;
+}
+.order-steps .sec-address {
+    text-align: center;
+}
+.order-steps .section-header {
+    color: var(--dark-coffee);
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+}
+.order-steps .sec-address .discreption {
+    color: var(--coffee);
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.order-steps .steps-row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.order-steps .steps-row .order-step {
+    background-color: var(--light-cream);
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+    max-width: 210px;
+    padding: 1.5rem 1rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 12px;
+}
+.order-steps .steps-row .order-step .step-content {
+    flex: 1;
+}
+.order-steps .steps-row .order-step > div h4 {
+    color: var(--dark-coffee);
+    font-weight: bold;
+    min-height: 1rem;
+    font-size: 1rem;
+}
+.order-steps .steps-row .order-step > div p {
+    color: var(--coffee);
+    font-size: 0.85rem;
+    line-height: 1.5rem;
+    margin: 0 !important;
+}
+.order-steps .steps-row .order-step > i {
+    color: var(--light-cream);
+    background-color: var(--coffee);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    font-size: 22px;
+}

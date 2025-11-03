@@ -1,5 +1,6 @@
 .card {
     padding: 0 !important;
+    height: 343px !important;
     box-shadow: 0 4px 12px rgba(84, 51, 16, 0.15);
     border: none;
     border-radius: 20px !important;
@@ -13,6 +14,17 @@
     -moz-border-radius: 20px !important;
     -ms-border-radius: 20px !important;
     -o-border-radius: 20px !important;
+}
+/* Animation For Cards */
+.fade-in {
+    opacity: 0;
+    animation: fadeIn 0.6s ease forwards;
+    -webkit-animation: fadeIn 0.6s ease forwards;
+}
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
 }
 .card:hover {
     transform: translateY(-5px);
@@ -44,13 +56,28 @@
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
+.card .card-body {
+    height: 158px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
 .card .card-body .card-title {
     color: var(--dark-coffee);
     font-weight: bold;
+    text-align: right;
 }
 .card .card-body .card-text {
-    color:  var(--coffee);
+  color: var(--coffee);
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* أو 1 حسب ما تحبي */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: right;
 }
+
 .card .card-body .button > button{
     background-color: var(--coffee);
     color: var(--latte);

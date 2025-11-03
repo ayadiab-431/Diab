@@ -1,0 +1,35 @@
+.generic-card-container .generic-card {
+    background-color: var(--light-cream);
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+    box-shadow: var(--box-shadow);
+}
+.generic-card-container .generic-card h4 {
+    font-size: clamp(1rem, 3vw, 1.5rem);
+    font-weight: bold;
+    color: var(--dark-coffee);
+}
+.generic-card-container .generic-card span {
+    color: var(--coffee);
+    font-size: clamp(1rem, 3vw, 1.5rem);
+}
+.generic-card-container .generic-card .generic-card-actions svg {
+    cursor: pointer;
+}
+.generic-card-container .generic-card .generic-card-actions i {
+    font-size: 18px;
+    cursor: pointer;
+}
+.generic-card-container .generic-card .generic-card-actions .action-edit {
+    color: var(--coffee);
+}
+.generic-card-container .generic-card .generic-card-actions .action-delete {
+    color: red;
+}
+.generic-card-container .generic-card.empty-card .no-data-text {
+    color: var(--coffee);
+    text-align: center;
+}

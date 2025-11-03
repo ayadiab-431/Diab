@@ -1,0 +1,70 @@
+.profile-section-container {
+  background-color: var(--light-cream);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.profile-section-container .section-heading {
+  border-bottom: 1px solid #eee;
+}
+
+.profile-section-container .section-heading > h3 {
+  font-size: clamp(18px, 5vw, 20px);
+  font-weight: bold;
+  color: var(--dark-coffee);
+}
+
+.profile-section-container .section-img {
+  max-width: 100px;
+  max-height: 100px;
+  border: 3px solid var(--light-cream);
+  outline: 3px solid var(--dark-coffee);
+  border-radius: 50%;
+}
+
+.profile-section-container .section-img > img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.profile-section-container .inputs-wrapper .input-field > label {
+  color: var(--dark-coffee);
+  font-size: 14px;
+}
+
+.profile-section-container .inputs-wrapper .input-field input {
+  width: 100%;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--light-coffee);
+  padding: 0.5rem;
+  transition: 0.3s ease-in-out;
+  outline-color: var(--coffee);
+  outline: none;
+  font-size: 15px;
+  color: var(--black);
+}
+
+.profile-section-container .inputs-wrapper .input-field input:focus {
+  box-shadow: 0px 0px 4px 2px var(--golden-beige);
+}
+
+.profile-section-container .inputs-wrapper .input-field .err {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 0.2rem;
+    margin-left: 0.5rem;
+}
+.profile-section-container .section-form .save-changes {
+  background-color: var(--dark-coffee);
+  color: var(--light-cream);
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  border: none;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+}
+
+.profile-section-container .section-form .save-changes:hover {
+  background-color: var(--coffee);
+}

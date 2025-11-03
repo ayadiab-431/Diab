@@ -1,0 +1,41 @@
+{
+  "admins": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@email.com",
+      "phone": "010105566",
+      "password": "123456"
+    }
+  ],
+  "products": [],
+  "categories": [
+    {
+      "id": "250d",
+      "category_name": "ركنة بسحارة"
+    },
+    {
+      "id": "6d2f",
+      "category_name": "كراسي"
+    },
+    {
+      "id": "9241",
+      "category_name": "بف منجد"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "4c19",
+      "phone": "0109  406  0065",
+      "isPhone": true,
+      "isWhatsapp": true
+    }
+  ],
+  "socials": [
+    {
+      "id": "1904",
+      "stage": "facebook",
+      "link": "a\\zsgxdhfcjmbk"
+    }
+  ]
+}

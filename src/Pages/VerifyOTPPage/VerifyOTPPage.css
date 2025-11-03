@@ -1,0 +1,29 @@
+.otp-container .otp-box {
+    width: 45px;
+    height: 45px;
+    border: 1.5px solid var(--light-coffee);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    color: var(--dark-coffee);
+    outline: none;
+    transition: 0.1s ease-in-out;
+    -webkit-transition: 0.1s ease-in-out;
+    -moz-transition: 0.1s ease-in-out;
+    -ms-transition: 0.1s ease-in-out;
+    -o-transition: 0.1s ease-in-out;
+    background-color: var(--latte);
+    font-size: 35px;
+    text-align: center;
+    caret-color: var(--light-coffee);
+}
+.otp-container .otp-box:focus {
+    border: 1.5px solid var(--coffee);
+}
+.otp-container .otp-box::placeholder {
+    color: var(--coffee);
+    opacity: 0.7;
+    font-size: 14px;
+}

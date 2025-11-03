@@ -1,0 +1,16 @@
+.admin-header {
+    background-color: var(--dark-coffee);
+}
+.admin-header .logo img {
+    width: 65px;
+}
+.admin-header .menu-bar i {
+    font-size: 24px;
+    color: var(--latte);
+    cursor: pointer;
+}
+/* @media (min-width: 992px) {
+    .admin-header {
+        display: none !important;
+    }
+} */

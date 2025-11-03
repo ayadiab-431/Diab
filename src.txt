@@ -1,0 +1,20 @@
+/src
+ ├── /pages
+ │    ├── Home.jsx
+ │    ├── About.jsx
+ │    ├── AdminDashboard.jsx   ← صفحة الأدمن الأساسية
+ │
+ ├── /components
+ │    ├── Sidebar.jsx
+ │    ├── Header.jsx
+ │    ├── ProductsTable.jsx
+ │    ├── AddEditProductForm.jsx
+ │    ├── CategoriesTable.jsx
+ │    ├── HeroSliderManager.jsx
+ │    ├── ContactInfoForm.jsx
+ │    ├── ui
+ │    │    ├── Button.jsx
+ │    │    ├── InputField.jsx
+ │    │    └── Modal.jsx
+ │
+ └── App.jsx

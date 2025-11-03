@@ -1,0 +1,15 @@
+.banner-tap .add-new-photo {
+    background-color: var(--light-cream);
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    -webkit-border-radius: var(--border-radius);
+    -moz-border-radius: var(--border-radius);
+    -ms-border-radius: var(--border-radius);
+    -o-border-radius: var(--border-radius);
+}
+.banner-tap h2 {
+    color: var(--dark-coffee);
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
